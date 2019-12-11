@@ -4,7 +4,9 @@ if board[0]==" "
   false
 elsif board[0]==""
   false
-else board[0]=="nil"
+elsif board[0]=="nil"
   false
+else board[0]=="X" || board[0]=="O"
+  true
 end
 end
