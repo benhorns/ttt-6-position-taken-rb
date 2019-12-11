@@ -8,4 +8,3 @@ else board[0]=="nil"
   false
 end
 end
-end
